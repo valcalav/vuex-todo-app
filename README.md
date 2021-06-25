@@ -1,4 +1,6 @@
-# vuex-todo-app
+# Vuex-todo-app
+
+To do application using Vue.js with the Vuex state management library.
 
 ## Project setup
 ```
