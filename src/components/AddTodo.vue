@@ -22,7 +22,7 @@ export default {
     },
     methods: {
         ...mapActions(['addTodo']),
-        onSubmit(e) {
+        onSubmit(e) { 
             e.preventDefault();
             this.addTodo(this.title)
         }
